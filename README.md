@@ -1,6 +1,6 @@
 # wad20-homework2
 
-##Task #1 - Fetch user profile information from users endpoint:
+## Task #1 - Fetch user profile information from users endpoint:
 
 - Make a drop-down menu on profile picture click
 
