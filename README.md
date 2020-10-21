@@ -2,12 +2,12 @@
 
 ##Task #1 - Fetch user profile information from users endpoint:
 
-* Make a drop-down menu on profile picture click
+- Make a drop-down menu on profile picture click
 
-* Display user information, fetched from the endpoint, there
+- Display user information, fetched from the endpoint, there
 
-* Add two links to the drop-down menu
+- Add two links to the drop-down menu
 
-** Browse: navigates to a new page browse.html
+    - Browse: navigates to a new page browse.html
 
-** Log out: navigates to login.html
+    - Log out: navigates to login.html
