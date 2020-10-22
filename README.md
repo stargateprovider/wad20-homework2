@@ -1,5 +1,11 @@
 # wad20-homework2
 
+### Links
+- Mock endpoints:
+    - https://wad20postit.docs.apiary.io/#
+- When we're done, write down names and link GitHub repo here:
+    - https://docs.google.com/spreadsheets/d/1mf3gFL-Wk4bV5i-LJljUodjZ8tzRANVhlYxrvX1Ps6w/edit#gid=0
+
 ## Task #1 - Fetch user profile information from users endpoint: (Pärt - tegelen)
 
 - Make a drop-down menu on profile picture click
@@ -29,6 +35,3 @@
     - Display account picture and name and subscribe button (See the "Profiles Collection" in API docs)
 
     - make the subscribe button interactive and change its background color when its clicked to indicate weather user has subscribed or not
-
-### Once we done
-- When we're done we can write down our names and link our GitHub repo here: https://docs.google.com/spreadsheets/d/1mf3gFL-Wk4bV5i-LJljUodjZ8tzRANVhlYxrvX1Ps6w/edit#gid=0
