@@ -29,3 +29,6 @@
     - Display account picture and name and subscribe button (See the "Profiles Collection" in API docs)
 
     - make the subscribe button interactive and change its background color when its clicked to indicate weather user has subscribed or not
+
+### Once we done
+- When we're done we can write down our names and link our GitHub repo here: https://docs.google.com/spreadsheets/d/1mf3gFL-Wk4bV5i-LJljUodjZ8tzRANVhlYxrvX1Ps6w/edit#gid=0
