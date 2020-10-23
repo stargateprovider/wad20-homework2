@@ -55,7 +55,6 @@ $(document).ready(function() {
 
     // Interactive like button for posts
     $(".like-button").click(function(e) {
-      console.log($(this))
       e.stopPropagation();
       $(this).toggleClass("liked");
     });
