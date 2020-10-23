@@ -54,10 +54,8 @@ $(document).ready(function() {
     }
 
     // Interactive like button for posts
-    $(".like-button").click(e => {
-      if (!e.target.classList.contains("liked")) {
-        e.target.className += " liked";
-      }
+    $(".like-button").click(function() {
+      $(this).toggleClass("liked");
     });
   });
 
