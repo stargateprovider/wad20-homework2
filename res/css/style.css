@@ -230,3 +230,38 @@ nav div.avatar-container {
 #_userMail {
   padding-top: 0.2em;
 }
+
+
+.profile {
+  border: 1px solid lightgrey;
+  border-radius: 2%;
+  display: inline-block;
+  text-align: center;
+  width: 45%;
+  margin: 1%;
+}
+
+.profile > img {
+  width: 90px;
+  height: 90px;
+  border-radius: 100%;
+  object-fit: cover;
+  object-position: top;
+  margin: 5px;
+}
+
+.profile-name {
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.follow-button {
+  background-color: purple;
+}
+
+.follow-button.followed {
+  background-color: white;
+  border: 1px solid purple;
+  color: purple;
+}

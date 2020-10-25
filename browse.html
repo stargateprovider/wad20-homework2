@@ -6,9 +6,30 @@
     <link rel="stylesheet" href="res/css/style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script type="text/javascript" src="res/js/script.js"></script>
+    <script type="text/javascript" src="res/js/profiles.js"></script>
     <title>Welcome to postIt! Browse all you want</title>
   </head>
   <body>
-
+    <header>
+      <nav>
+        <div class="logo-container">
+          <img src="res/images/logo.png" alt="postIt">
+        </div>
+        <div class="search-container">
+          <input type="text" name="search"><button type="button">Search</button>
+        </div>
+        <div class="avatar-container">
+          <img src="res/images/avatar.png" id="avatar" alt="Me">
+        </div>
+      </nav>
+      <div class="dropdownMe">
+        <p id="_userName" class="drpContent">_userName</p>
+        <p id="_userMail" class="drpContent">_userMail</p>
+        <a href="browse.html" class="drpContent">Browse</a>
+        <a href="login.html" class="drpContent">Log Out</a>
+      </div>
+    </header>
+    <section id="profiles" class="main-container">
+    </section>
   </body>
 </html>
