@@ -35,3 +35,5 @@
     - Display account picture and name and subscribe button (See the "Profiles Collection" in API docs)
 
     - make the subscribe button interactive and change its background color when its clicked to indicate weather user has subscribed or not
+    
+This is not listed in the requirements of task #3 but it would be nice if clicking on the POSTIT logo in the header section would load index.html.
